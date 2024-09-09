@@ -86,9 +86,3 @@ Links to social media profiles for additional ways to connect.
 * Includes quick links and a copyright notice.
 
 
-
-Contributing
-Feel free to fork the repository and submit pull requests if you'd like to contribute to this project or make any improvements.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
